@@ -30,6 +30,9 @@ https://drive.google.com/file/d/1OuOpgq99E5VKPtwUuFZ0GGety3YWjIQn/view?usp=shari
 
 
 
+# Download Model and other necessary files from link below:
 
+As this project uses the older version of PyTorch which is less than 2.6, I would recommend you to install the older version.
+pip install torch==2.3.0 torchvision==0.18.0
 
 
